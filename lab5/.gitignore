@@ -1,0 +1,6 @@
+build/
+build-*/
+.vs/
+CMakeUserPresets.json
+*.user
+.pdf-tools/
