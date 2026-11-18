@@ -1,0 +1,9 @@
+add Elf Legolas 100 100
+add Dragon Smaug 120 100
+add Druid Radagast 400 400
+print
+save demo_dungeon.txt
+load demo_dungeon.txt
+fight 20
+print
+exit

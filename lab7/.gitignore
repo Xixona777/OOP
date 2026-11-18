@@ -1,0 +1,11 @@
+build/
+build-*/
+cmake-build-*/
+.vs/
+.vscode/
+*.exe
+*.o
+*.obj
+log.txt
+Testing/
+docs/theory_*.png

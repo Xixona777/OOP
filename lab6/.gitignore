@@ -1,0 +1,8 @@
+build/
+build-wsl/
+out/
+.vs/
+CMakeUserPresets.json
+log.txt
+demo_dungeon.txt
+*.user
